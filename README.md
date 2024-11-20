@@ -21,7 +21,7 @@ In this project, we:
 
 # 🚀 How to Use
 1. Clone the repository:
-git clone https://github.com/your-username/uber-trips-analysis.git
+git clone [https://github.com/your-username/uber-trips-analysis.git](https://github.com/priyankaa-roy/Uber-Trips-Analysis/tree/main)
 2. Install dependencies:
 pip install -r requirements.txt
 3. Open the notebook:
