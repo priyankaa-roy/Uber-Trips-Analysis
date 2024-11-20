@@ -14,10 +14,10 @@ In this project, we:
 - `Clean Notebook`: Well-structured Jupyter Notebook with code and insights.
 
 # 🛠️ Technologies Used
-`Python`: Core programming language
-`Pandas`: For data manipulation
-`Matplotlib & Seaborn`: For visualization
-`Jupyter Notebook`: For interactive development
+- `Python`: Core programming language
+- `Pandas`: For data manipulation
+- `Matplotlib & Seaborn`: For visualization
+- `Jupyter Notebook`: For interactive development
 
 # 🚀 How to Use
 1. Clone the repository:
